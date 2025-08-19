@@ -1,0 +1,1 @@
+operacoes_comerciais_inteira.csv filter=lfs diff=lfs merge=lfs -text
